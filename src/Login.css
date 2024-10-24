@@ -1,0 +1,38 @@
+body{
+    background-image: url(image/wallpaperflare.com_wallpaper\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrap{
+    text-align: center;
+    border: 2px solid purple;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: 600px;
+    background-color: azure;
+    background-image: url(image/shinobu.jpg);
+    background-repeat: no-repeat;
+    
+
+    
+}
+.btn{
+    margin-top: 50px;
+    border-radius: 2px;
+    height: 50px;
+    width: 100px;
+    color: red;
+    background: transparent;
+    border-color: red;
+    font-size:larger;
+
+    
+}
+.one{
+    margin-right:100px ;
+}
+.two{
+    padding: 5px;
+    margin-top: 10px;
+}
